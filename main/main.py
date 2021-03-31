@@ -1,6 +1,7 @@
 from pytube import YouTube
 
 import PySimpleGUI as sg
+# Download dependencies with pip
 error_message1 = ""
 sg.change_look_and_feel('bluemono')
 
